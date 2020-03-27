@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2a488e6-f134-495f-89d3-7f79e1b017a3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZOujooOFMJbLc2aMF8PElEr0sn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\apgomes\Documents\Paul\Grad\1. Spring2020\Special Topic Big Data Prog Hadoop Spark\In-class Exercise\Ex8\ICP8\SourceCode\WordCount" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\apgomes\Documents\Paul\Grad\1. Spring2020\Special Topic Big Data Prog Hadoop Spark\In-class Exercise\Ex8\WordCount" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="WordCount" />
+      <module name="WordCount" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WordCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="WordCount" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="wordcount [file:/C:/Users/apgomes/Documents/Paul/Grad/1.%20Spring2020/Special%20Topic%20Big%20Data%20Prog%20Hadoop%20Spark/In-class%20Exercise/Ex8/ICP8/SourceCode/WordCount/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="WordCount-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3169445274912" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="506161529" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2a488e6-f134-495f-89d3-7f79e1b017a3" name="Default Changelist" comment="" />
+      <created>1584722598462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584722598462</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="522" y="226" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584723222911">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="522" y="226" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834/3840.0.2560.1410@0.0.1536.834" timestamp="1584723222911" />
+    <state x="4899" y="446" key="FileChooserDialogImpl" timestamp="1585257554070">
+      <screen x="3840" y="0" width="2560" height="1410" />
+    </state>
+    <state x="4899" y="446" key="FileChooserDialogImpl/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585257554070" />
+    <state width="2517" height="383" key="GridCell.Tab.0.bottom" timestamp="1585337466588">
+      <screen x="3840" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1344" height="189" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.2560.1410@0.0.1536.834" timestamp="1584723355744" />
+    <state width="2517" height="383" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585337466588" />
+    <state width="2517" height="383" key="GridCell.Tab.0.center" timestamp="1585337466588">
+      <screen x="3840" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1344" height="189" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.2560.1410@0.0.1536.834" timestamp="1584723355744" />
+    <state width="2517" height="383" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585337466588" />
+    <state width="2517" height="383" key="GridCell.Tab.0.left" timestamp="1585337466588">
+      <screen x="3840" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1344" height="189" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.2560.1410@0.0.1536.834" timestamp="1584723355744" />
+    <state width="2517" height="383" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585337466588" />
+    <state width="2517" height="383" key="GridCell.Tab.0.right" timestamp="1585337466588">
+      <screen x="3840" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1344" height="189" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.2560.1410@0.0.1536.834" timestamp="1584723355744" />
+    <state width="2517" height="383" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585337466588" />
+    <state x="4630" y="416" key="com.intellij.ide.util.TipDialog" timestamp="1585257443633">
+      <screen x="3840" y="0" width="2560" height="1410" />
+    </state>
+    <state x="474" y="246" key="com.intellij.ide.util.TipDialog/0.0.1536.834/3840.0.2560.1410@0.0.1536.834" timestamp="1585255790999" />
+    <state x="4630" y="416" key="com.intellij.ide.util.TipDialog/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585257443633" />
+    <state x="4860" y="418" key="new project wizard" timestamp="1585257653314">
+      <screen x="3840" y="0" width="2560" height="1410" />
+    </state>
+    <state x="4860" y="418" key="new project wizard/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585257653314" />
+  </component>
+</project>
