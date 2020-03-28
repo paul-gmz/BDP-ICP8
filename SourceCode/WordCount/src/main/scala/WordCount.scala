@@ -25,7 +25,7 @@ object WordCount {
     val sum = (p1 :Int, p2: Int) => p1 + p2
     val countsWordsWithh = wordStartsWithh.map(word => (word, 1)).repartition(1).aggregateByKey(0)(addToCounts, sum).sortBy(_._2, false)
     val countOfRecords = countsWordsWithh.count();
-    print(countOfRecords)
+    println("Count of words that start with h: " + countOfRecords)
     // Save the word count back out to a text file, causing evaluation.
     countsWordsWithh.saveAsTextFile("output")
   }

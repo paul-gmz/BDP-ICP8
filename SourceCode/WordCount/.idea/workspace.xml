@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2a488e6-f134-495f-89d3-7f79e1b017a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SecondarySorting/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SecondarySorting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SecondarySorting/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SecondarySorting/output/._SUCCESS.crc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SecondarySorting/output/.part-00000.crc" beforeDir="false" />
@@ -10,11 +9,35 @@
       <change beforePath="$PROJECT_DIR$/../SecondarySorting/output/_SUCCESS" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SecondarySorting/output/part-00000" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SecondarySorting/output/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/WordCount-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/WordCount-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/WordCount.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/WordCount.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/._SUCCESS.crc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/output/.part-00000.crc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/output/_SUCCESS" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/output/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$265dcf5b3c4a2836e1c3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$265dcf5b3c4a2836e1c3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$265dcf5b3c4a2836e1c3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4db4cce7ac1feae2c652$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4db4cce7ac1feae2c652.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4db4cce7ac1feae2c652.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$616ef2fe3e091e09ff05$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$616ef2fe3e091e09ff05.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$616ef2fe3e091e09ff05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d8bf16586baca7331653$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d8bf16586baca7331653.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d8bf16586baca7331653.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/WordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/WordCount$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/WordCount$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.11/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.11/output_dsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +67,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SecondarySorting" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -81,7 +104,7 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="wordcount [file:/C:/Users/apgomes/Documents/Paul/Grad/1.%20Spring2020/Special%20Topic%20Big%20Data%20Prog%20Hadoop%20Spark/In-class%20Exercise/Ex8/ICP8/SourceCode/WordCount/]" />
+                <option name="name" value="wordcount [file:/C:/Users/apgomes/Documents/Paul/Grad/1.%20Spring2020/Special%20Topic%20Big%20Data%20Prog%20Hadoop%20Spark/In-class%20Exercise/Ex8/BDP-ICP8/SourceCode/WordCount/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
@@ -119,34 +142,35 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="522" y="226" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834/3840.0.2560.1410@0.0.1536.834" timestamp="1584723222911" />
-    <state x="4899" y="446" key="FileChooserDialogImpl" timestamp="1585257554070">
-      <screen x="3840" y="0" width="2560" height="1410" />
-    </state>
-    <state x="4899" y="446" key="FileChooserDialogImpl/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585257554070" />
-    <state width="2518" height="383" key="GridCell.Tab.0.bottom" timestamp="1585341932672">
-      <screen x="3840" y="0" width="2560" height="1410" />
-    </state>
-    <state width="1344" height="189" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.2560.1410@0.0.1536.834" timestamp="1584723355744" />
-    <state width="2518" height="383" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585341932672" />
-    <state width="2518" height="383" key="GridCell.Tab.0.center" timestamp="1585341932672">
-      <screen x="3840" y="0" width="2560" height="1410" />
-    </state>
-    <state width="1344" height="189" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.2560.1410@0.0.1536.834" timestamp="1584723355744" />
-    <state width="2518" height="383" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585341932672" />
-    <state width="2518" height="383" key="GridCell.Tab.0.left" timestamp="1585341932672">
-      <screen x="3840" y="0" width="2560" height="1410" />
-    </state>
-    <state width="1344" height="189" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.2560.1410@0.0.1536.834" timestamp="1584723355744" />
-    <state width="2518" height="383" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585341932672" />
-    <state width="2518" height="383" key="GridCell.Tab.0.right" timestamp="1585341932672">
-      <screen x="3840" y="0" width="2560" height="1410" />
-    </state>
-    <state width="1344" height="189" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.2560.1410@0.0.1536.834" timestamp="1584723355744" />
-    <state width="2518" height="383" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585341932672" />
-    <state x="474" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1585424739483">
+    <state x="635" y="264" key="FileChooserDialogImpl" timestamp="1585427587236">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="474" y="246" key="com.intellij.ide.util.TipDialog/0.0.1536.834/3840.0.2560.1410@0.0.1536.834" timestamp="1585424739483" />
+    <state x="635" y="264" key="FileChooserDialogImpl/0.0.1536.834/3840.0.2560.1410@0.0.1536.834" timestamp="1585427587236" />
+    <state x="4899" y="446" key="FileChooserDialogImpl/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585257554070" />
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1585431378824">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.2560.1410@0.0.1536.834" timestamp="1585431378824" />
+    <state width="2518" height="383" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585341932672" />
+    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1585431378823">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.2560.1410@0.0.1536.834" timestamp="1585431378823" />
+    <state width="2518" height="383" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585341932672" />
+    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1585431378823">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.2560.1410@0.0.1536.834" timestamp="1585431378823" />
+    <state width="2518" height="383" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585341932672" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1585431378824">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.2560.1410@0.0.1536.834" timestamp="1585431378824" />
+    <state width="2518" height="383" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585341932672" />
+    <state x="474" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1585432657690">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="474" y="246" key="com.intellij.ide.util.TipDialog/0.0.1536.834/3840.0.2560.1410@0.0.1536.834" timestamp="1585432657690" />
     <state x="4630" y="416" key="com.intellij.ide.util.TipDialog/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585257443633" />
     <state x="4860" y="418" key="new project wizard" timestamp="1585257653314">
       <screen x="3840" y="0" width="2560" height="1410" />

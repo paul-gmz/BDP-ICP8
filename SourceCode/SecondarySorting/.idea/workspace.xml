@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87baa2b2-05c9-48e7-84a6-948ac89dad9f" name="Default Changelist" comment="" />
+    <list default="true" id="87baa2b2-05c9-48e7-84a6-948ac89dad9f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/.idea/modules/WordCount-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordCount/.idea/modules/WordCount-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/.idea/modules/WordCount.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordCount/.idea/modules/WordCount.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordCount/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/output/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/output/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/output/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/output/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/project/target/config-classes/$265dcf5b3c4a2836e1c3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/project/target/config-classes/$265dcf5b3c4a2836e1c3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/project/target/config-classes/$265dcf5b3c4a2836e1c3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/project/target/config-classes/$4db4cce7ac1feae2c652$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/project/target/config-classes/$4db4cce7ac1feae2c652.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/project/target/config-classes/$4db4cce7ac1feae2c652.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/project/target/config-classes/$616ef2fe3e091e09ff05$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/project/target/config-classes/$616ef2fe3e091e09ff05.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/project/target/config-classes/$616ef2fe3e091e09ff05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/project/target/config-classes/$d8bf16586baca7331653$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/project/target/config-classes/$d8bf16586baca7331653.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/project/target/config-classes/$d8bf16586baca7331653.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../WordCount/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../WordCount/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../WordCount/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../WordCount/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../WordCount/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../WordCount/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/src/main/scala/WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../WordCount/src/main/scala/WordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/target/scala-2.11/classes/WordCount$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WordCount/target/scala-2.11/classes/WordCount$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../WordCount/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.11/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../WordCount/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.11/output_dsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +79,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -89,6 +127,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="3170515493479" />
         <entry key="$PROJECT_DIR$/build.sbt" value="1174761774" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
       </map>
@@ -112,21 +151,25 @@
       <screen x="3840" y="0" width="2560" height="1410" />
     </state>
     <state x="4712" y="363" key="#Notifications/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585257752191" />
-    <state width="2517" height="595" key="GridCell.Tab.0.bottom" timestamp="1585341928669">
-      <screen x="3840" y="0" width="2560" height="1410" />
+    <state width="1493" height="287" key="GridCell.Tab.0.bottom" timestamp="1585431529914">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="287" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.2560.1410@0.0.1536.834" timestamp="1585431529914" />
     <state width="2517" height="595" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585341928669" />
-    <state width="2517" height="595" key="GridCell.Tab.0.center" timestamp="1585341928669">
-      <screen x="3840" y="0" width="2560" height="1410" />
+    <state width="1493" height="287" key="GridCell.Tab.0.center" timestamp="1585431529914">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="287" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.2560.1410@0.0.1536.834" timestamp="1585431529914" />
     <state width="2517" height="595" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585341928669" />
-    <state width="2517" height="595" key="GridCell.Tab.0.left" timestamp="1585341928669">
-      <screen x="3840" y="0" width="2560" height="1410" />
+    <state width="1493" height="287" key="GridCell.Tab.0.left" timestamp="1585431529913">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="287" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.2560.1410@0.0.1536.834" timestamp="1585431529913" />
     <state width="2517" height="595" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585341928669" />
-    <state width="2517" height="595" key="GridCell.Tab.0.right" timestamp="1585341928669">
-      <screen x="3840" y="0" width="2560" height="1410" />
+    <state width="1493" height="287" key="GridCell.Tab.0.right" timestamp="1585431529914">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="287" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.2560.1410@0.0.1536.834" timestamp="1585431529914" />
     <state width="2517" height="595" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.2560.1410@3840.0.2560.1410" timestamp="1585341928669" />
   </component>
 </project>
